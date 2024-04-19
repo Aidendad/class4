@@ -18,7 +18,9 @@ p shopping_list[0]
 
 # Add to the array
 shopping_list.push("bath toys")
-p shopping_list
+p shopping_list.count
+
+
 
 # There are lots of fun things you can do with arrays:
 # https://ruby-doc.org/core-2.7.0/Array.html
